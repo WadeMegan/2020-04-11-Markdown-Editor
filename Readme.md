@@ -1,5 +1,8 @@
 # Demo here: https://markdown-editor.now.sh/
 
+## Note for graders
+
+Projects consists of index.html, index.js, main.css
 
 ## Today's Objective: Markdown Editor
 
